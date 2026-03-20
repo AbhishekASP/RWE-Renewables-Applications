@@ -22,9 +22,9 @@ In large renewable energy projects, defining RDSPP structures manually is:
 
 This tool solves that by:
 
-✔ Automating RDSPP hierarchy generation
-✔ Standardizing SAP upload templates
-✔ Supporting scalable replication across multiple units (G001–Gxxx)
+ Automating RDSPP hierarchy generation
+ Standardizing SAP upload templates
+ Supporting scalable replication across multiple units (G001–Gxxx)
 
 ---
 
